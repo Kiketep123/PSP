@@ -1,28 +1,8 @@
-Skip to content
- 
-Search or jump to…
+# Actividad_2_Procesos
+Programa simlador de una BARRA DE TAREAS el cual abre mis aplicaciones mas utilizadas.
 
-Pull requests
-Issues
-Marketplace
-Explore
- @Kiketep123 Sign out
-0
-0 0 Kiketep123/Actividad_2_Procesos
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Programa simlador de una BARRA DE TAREAS el cual abre mis aplicaciones mas utilizadas.
- 2 commits
- 1 branch
- 0 releases
- 1 contributor
- @Kiketep123
-Kiketep123 Update README.md
-Latest commit 6d4d60f  5 days ago
-Type	Name	Latest commit message	Commit time
-README.md	Update README.md	5 days ago
- README.md
-Actividad_2_Procesos
-Programa simlador de una BARRA DE TAREAS el cual abre mis aplicaciones mas utilizadas.
+
+```java
 
 
 
@@ -171,16 +151,3 @@ public class Actividad_2 extends JFrame {
 
 
 ´´´
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
