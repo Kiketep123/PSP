@@ -1,9 +1,3 @@
-# Actividad_2_Procesos
-Programa simlador de una BARRA DE TAREAS el cual abre mis aplicaciones mas utilizadas.
-
-
-```java
-
 
 
 import java.awt.BorderLayout;
@@ -150,4 +144,4 @@ public class Actividad_2 extends JFrame {
 
 
 
-´´´
+
